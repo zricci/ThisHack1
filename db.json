@@ -1,0 +1,54 @@
+{
+
+  "UPSLoc": [
+
+    {
+
+   "Name" : "Parsippany",
+
+   "Address" : "799 Jefferson Rd",
+
+   "City" : "Parsippany",
+
+   "State" : "NJ",
+
+   "Zip Code" : 7054
+
+ },
+
+ {
+
+   "Name" : "Meadowlands",
+
+   "Address" : "493 County Ave",
+
+   "City" : "Secaucus",
+
+   "State" : "NJ",
+
+   "Zip Code" : 7094
+
+ },
+
+ {
+
+   "Name" : "GOULD AVE",
+
+   "Address" : "70 GOULD AVE",
+
+   "City" : "NEWARK",
+
+   "State" : "NJ",
+
+   "Zip Code" : 7107
+
+ }
+  ],
+
+  "profile": {
+
+    "name": "typicode"
+
+  }
+
+}
